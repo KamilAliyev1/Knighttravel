@@ -184,7 +184,7 @@ void KnightMove(char arr[][8],int adresKnightArr[],int movesArr[][2],int wayArr[
 			movement = false;
 			if (stop) break;
 			movement = true;
-			cout << "ble" << back;
+			
 		}
 	}
 	//cout << "\ngeri itrasya:" << x << y << endl;
